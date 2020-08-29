@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "scripts": {
+    "build": "parcel build index.html --public-url '.'"
+  },
+  "dependencies": {
+    "stellar-hd-wallet": "*",
+    "parcel": "*"
+  }
+}
